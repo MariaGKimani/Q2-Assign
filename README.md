@@ -15,3 +15,27 @@ information. Consider creating a `Recipe` class, and think about how you might
 create subclasses for different types of recipes (e.g., `MoroccanRecipe`,
 `EthiopianRecipe`, `NigerianRecipe`), each with their own unique properties and
 methods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####Question 7
+Create a FlightBooking class that represents a flight booking system. Implement
+methods to search for available flights based on destination and date, reserve
+seats for customers, manage passenger information, and generate booking
+confirmations.
